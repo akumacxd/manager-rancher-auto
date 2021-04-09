@@ -29,11 +29,11 @@
       <!-- Add root and guest users -->
       <users>
         <user
-            password="$1$xyz$YACkVSgLQHtAXVTV.wIyR/"
+            password="$1$xyz$YCCZsvYCmSe.qXSOYUWkJ/"
             home="/home/guest" name="guest" groups="users"
         />
         <user
-            password="$1$xyz$YACkVSgLQHtAXVTV.wIyR/"
+            password="$1$xyz$YCCZsvYCmSe.qXSOYUWkJ/"
             home="/root" name="root" groups="root"
         />
       </users>
